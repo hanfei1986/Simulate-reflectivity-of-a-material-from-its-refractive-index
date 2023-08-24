@@ -1,6 +1,6 @@
 # Simulate-reflectivity-of-materials-from-refractive-indexes
 
-![image](https://github.com/hanfei1986/Simulate-reflectivity-of-materials-from-refractive-indexes/assets/59255164/ad9dedaf-6565-43ec-9adb-a3e62f9a52df)
+![Picture1](https://github.com/hanfei1986/Simulate-reflectivity-of-materials-from-refractive-indexes/assets/59255164/db87098d-60dc-4d28-9383-fc301ea7ef13)
 
 https://en.wikipedia.org/wiki/Fresnel_equations
 
