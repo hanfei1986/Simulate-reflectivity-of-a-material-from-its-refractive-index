@@ -1,4 +1,4 @@
-# Simulate-reflectivity-of-materials-from-refractive-indexes
+# Simulate-reflectivity-of-materials-from-refractive-indices
 
 ![Picture1](https://github.com/hanfei1986/Simulate-reflectivity-of-materials-from-refractive-indexes/assets/59255164/db87098d-60dc-4d28-9383-fc301ea7ef13)
 
