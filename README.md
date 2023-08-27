@@ -1,4 +1,4 @@
-# Simulate-reflectivity-of-a-material-from-refractive-index
+# Simulate-reflectivity-of-a-material-from-its-refractive-index
 When light strikes the interface between a medium with refractive index n1 and a second medium with refractive index n2, both reflection and refraction of the light may occur. These codes simulate the reflectivity occuring on the interface from the refractive index n2 at different wavelengths (suppose the first medium is air and n1 = 1).
 
 ![Picture1](https://github.com/hanfei1986/Simulate-reflectivity-of-materials-from-refractive-indexes/assets/59255164/db87098d-60dc-4d28-9383-fc301ea7ef13)
